@@ -12,6 +12,7 @@
     
     <artifactId>reactor</artifactId>
     <name>Reactor Build</name>
+    <packaging>pom</packaging>
 
     <modules>
         <module>parent</module>
