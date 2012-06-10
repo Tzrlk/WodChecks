@@ -7,6 +7,7 @@
     <parent>
         <groupId>nz.co.aetheric.wodchecks</groupId>
         <artifactId>parent</artifactId>
+        <relativePath>/parent/pom.xml</relativePath>
         <version>1.0.1</version>
     </parent>
     
